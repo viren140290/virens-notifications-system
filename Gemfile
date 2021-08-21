@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'sinatra'
+gem 'pry'
+gem 'pry-nav'
+gem 'httparty'
+gem 'rake'
+gem 'activerecord'
+gem 'rake'
